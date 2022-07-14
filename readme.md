@@ -9,8 +9,8 @@ curl -s https://raw.githubusercontent.com/imabp/sh-cookbook/main/<example-filena
 ```
 
 For Example:
-To create a **clean and structured** next app in typescript
+To create a **clean and structured** next app in typescript with support of chakra-ui
 
 ```sh
-curl -s https://raw.githubusercontent.com/imabp/sh-cookbook/main/create-next-app-typescript.sh | bash
+curl -s https://raw.githubusercontent.com/imabp/sh-cookbook/main/create-next-app-chakra-ui-typescript | bash
 ```
